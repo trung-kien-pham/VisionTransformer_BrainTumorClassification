@@ -167,6 +167,3 @@ This project uses a custom Vision Transformer implementation for learning and ex
 
 For small or medium-sized datasets, training ViT from scratch can be challenging. Using a smaller ViT configuration such as ViT-T/16 or ViT-S/16 is recommended before trying larger models such as ViT-B/16.
 
-## License
-
-This project is released under the MIT License.
