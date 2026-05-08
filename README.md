@@ -318,7 +318,3 @@ This project is designed for learning and experimentation with CNNs, Vision Tran
 Training ViT from scratch can be challenging on small or medium-sized datasets. Therefore, smaller configurations such as ViT-T/16 or ViT-S/16 are recommended before trying larger models such as ViT-B/16.
 
 For the hybrid R50+ViT model, `downsample_ratio=16` keeps a larger token grid than `downsample_ratio=32`, which may preserve more spatial information for MRI image classification.
-
-## License
-
-This project is released under the MIT License.
